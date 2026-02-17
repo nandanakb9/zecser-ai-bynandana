@@ -1,0 +1,17 @@
+{
+  "job_id": "string",
+  "job_title": "string",
+  "job_type": "full-time | part-time | remote",
+  "required_skills": [
+    {
+      "skill_name": "string",
+      "minimum_experience": "number"
+    }
+  ],
+  "minimum_experience": "number",
+  "qualification": "string",
+  "responsibilities": [
+    "string"
+  ],
+  "location": "string"
+}
