@@ -1,0 +1,9 @@
+2026-02-18 20:19:34.588 | INFO     | parsers.resume_text_extractor:extract_resume:30 - Processing data/samples/sample_resume.pdf
+2026-02-18 20:24:55.040 | INFO     | parsers.resume_text_extractor:extract_resume:30 - Processing data/samples/civilresume.pdf
+2026-02-18 20:24:55.051 | INFO     | parsers.resume_text_extractor:extract_resume:44 - Saved cleaned resume to outputs\civilresume_cleaned.txt
+2026-02-18 20:40:21.862 | INFO     | parsers.resume_text_extractor:extract_resume:30 - Processing data/samples/civilengresume.docx
+2026-02-18 20:40:21.949 | INFO     | parsers.resume_text_extractor:extract_resume:44 - Saved cleaned resume to outputs\civilengresume_cleaned.txt
+2026-02-18 21:28:24.566 | INFO     | parsers.resume_text_extractor:extract_resume:30 - Processing data/samples/softwareresume.docx
+2026-02-18 21:28:24.648 | INFO     | parsers.resume_text_extractor:extract_resume:44 - Saved cleaned resume to outputs\softwareresume_cleaned.txt
+2026-02-18 21:29:54.972 | INFO     | parsers.resume_text_extractor:extract_resume:30 - Processing data/samples/electricresume.pdf
+2026-02-18 21:29:55.292 | INFO     | parsers.resume_text_extractor:extract_resume:44 - Saved cleaned resume to outputs\electricresume_cleaned.txt
