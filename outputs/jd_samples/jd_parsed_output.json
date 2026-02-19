@@ -1,0 +1,10 @@
+{
+    "role": "software engineer",
+    "required_skills": [
+        "python",
+        "sql",
+        "django"
+    ],
+    "experience_required": "2-4 years",
+    "education_preference": "bachelor"
+}

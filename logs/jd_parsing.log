@@ -1,0 +1,11 @@
+2026-02-19 20:02:48.492 | INFO     | parsers.job_description_parser:parse_job_description:68 - Parsing job description
+2026-02-19 20:02:48.495 | INFO     | parsers.job_description_parser:parse_job_description:82 - JD parsed successfully
+2026-02-19 20:22:43.379 | INFO     | parsers.job_description_parser:parse_job_description:68 - Parsing job description
+2026-02-19 20:22:43.387 | INFO     | parsers.job_description_parser:parse_job_description:82 - JD parsed successfully
+2026-02-19 20:39:08.583 | INFO     | parsers.job_description_parser:parse_job_description:68 - Parsing job description
+2026-02-19 20:39:08.592 | INFO     | parsers.job_description_parser:parse_job_description:82 - JD parsed successfully
+2026-02-19 20:43:34.688 | INFO     | parsers.job_description_parser:parse_job_description:88 - Parsing job description
+2026-02-19 20:43:34.691 | INFO     | parsers.job_description_parser:parse_job_description:103 - JD parsed successfully and saved
+2026-02-19 20:45:44.933 | INFO     | parsers.job_description_parser:parse_job_description:80 - Parsing job description
+2026-02-19 20:45:44.933 | INFO     | parsers.job_description_parser:parse_job_description:91 - JD parsed successfully
+2026-02-19 20:45:44.935 | INFO     | parsers.job_description_parser:save_jd_output:76 - JD output saved to outputs\jd_samples\python_developer_jd.json
