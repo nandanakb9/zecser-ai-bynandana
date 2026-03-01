@@ -1,0 +1,16 @@
+{
+  "technical": [
+    "python", "java", "sql", "django", "flask",
+    "html", "css", "javascript", "react",
+    "autocad", "staad pro", "etabs",
+    "plc", "matlab"
+  ],
+  "business": [
+    "project management", "quality control",
+    "estimation", "costing"
+  ],
+  "soft": [
+    "communication", "teamwork",
+    "problem solving", "time management"
+  ]
+}
