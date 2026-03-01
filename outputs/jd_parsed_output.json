@@ -1,1 +1,6 @@
-{'role': 'python developer', 'skills': ['python', 'sql', 'django'], 'experience': '2-4 years', 'education': 'bachelor'}
+{
+  "role": "python developer",
+  "skills": ["python", "sql", "django"],
+  "experience": "2-4 years",
+  "education": "bachelor"
+}
