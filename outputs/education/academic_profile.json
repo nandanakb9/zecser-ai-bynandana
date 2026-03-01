@@ -1,0 +1,18 @@
+{
+  "education": {
+    "degree": "Bachelor",
+    "field": "Electrical Engineering",
+    "graduation_year": "2021"
+  },
+  "certifications": [
+    {
+      "name": "PLC",
+      "category": "Technical"
+    },
+    {
+      "name": "SAFETY",
+      "category": "Safety"
+    }
+  ],
+  "relevance_score": 1.0
+}
