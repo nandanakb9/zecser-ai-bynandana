@@ -1,0 +1,22 @@
+2026-03-25 19:14:55,340 - INFO - ATS Test Started
+2026-03-25 19:14:55,341 - INFO - ATS Test Completed
+2026-03-25 21:14:08,794 - INFO - Parsing resume: data/resumes\Amit Shah.pdf
+2026-03-25 21:14:08,900 - INFO - PDF extracted successfully: data/resumes\Amit Shah.pdf
+2026-03-25 21:14:08,906 - INFO - Parsing resume: data/resumes\Anjali Sharma.pdf
+2026-03-25 21:14:08,978 - INFO - PDF extracted successfully: data/resumes\Anjali Sharma.pdf
+2026-03-25 21:14:08,980 - INFO - Parsing resume: data/resumes\Arun Nair.pdf
+2026-03-25 21:14:09,046 - INFO - PDF extracted successfully: data/resumes\Arun Nair.pdf
+2026-03-25 21:14:09,048 - INFO - Parsing resume: data/resumes\Divya Nair.pdf
+2026-03-25 21:14:09,114 - INFO - PDF extracted successfully: data/resumes\Divya Nair.pdf
+2026-03-25 21:14:09,116 - INFO - Parsing resume: data/resumes\Karthik R.pdf
+2026-03-25 21:14:09,184 - INFO - PDF extracted successfully: data/resumes\Karthik R.pdf
+2026-03-25 21:14:09,187 - INFO - Parsing resume: data/resumes\Neha Verma.pdf
+2026-03-25 21:14:09,256 - INFO - PDF extracted successfully: data/resumes\Neha Verma.pdf
+2026-03-25 21:14:09,258 - INFO - Parsing resume: data/resumes\Priya Menon.pdf
+2026-03-25 21:14:09,322 - INFO - PDF extracted successfully: data/resumes\Priya Menon.pdf
+2026-03-25 21:14:09,323 - INFO - Parsing resume: data/resumes\Rahul Kumar.pdf
+2026-03-25 21:14:09,392 - INFO - PDF extracted successfully: data/resumes\Rahul Kumar.pdf
+2026-03-25 21:14:09,393 - INFO - Parsing resume: data/resumes\Rohit Mehta.pdf
+2026-03-25 21:14:09,462 - INFO - PDF extracted successfully: data/resumes\Rohit Mehta.pdf
+2026-03-25 21:14:09,464 - INFO - Parsing resume: data/resumes\Sneha Kapoor.pdf
+2026-03-25 21:14:09,537 - INFO - PDF extracted successfully: data/resumes\Sneha Kapoor.pdf

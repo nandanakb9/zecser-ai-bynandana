@@ -1,0 +1,17 @@
+{
+    "final_ats_score": 0.604,
+    "explanation": {
+        "weights": {
+            "skills": 0.35,
+            "experience": 0.3,
+            "education": 0.05,
+            "semantic": 0.3
+        },
+        "scores": {
+            "skills": 0.63,
+            "experience": 0.53,
+            "education": 0.41,
+            "semantic": 0.68
+        }
+    }
+}

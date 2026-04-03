@@ -1,0 +1,18 @@
+2026-03-26 15:29:58,086 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-26 15:29:58,086 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-26 15:29:58,088 - INFO -  * Restarting with stat
+2026-03-26 15:29:58,533 - WARNING -  * Debugger is active!
+2026-03-26 15:29:58,540 - INFO -  * Debugger PIN: 438-764-487
+2026-03-26 18:49:51,579 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-26 18:49:51,579 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-26 18:49:51,581 - INFO -  * Restarting with stat
+2026-03-26 18:49:51,900 - WARNING -  * Debugger is active!
+2026-03-26 18:49:51,906 - INFO -  * Debugger PIN: 438-764-487
+2026-03-26 18:54:23,428 - INFO - 127.0.0.1 - - [26/Mar/2026 18:54:23] "[33mGET / HTTP/1.1[0m" 404 -
+2026-03-26 18:54:23,562 - INFO - 127.0.0.1 - - [26/Mar/2026 18:54:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-26 18:58:08,380 - INFO -  * Detected change in 'C:\\ZecserIntern\\Zecpath-AI\\api\\ats_api.py', reloading
+2026-03-26 18:58:08,508 - INFO -  * Restarting with stat
+2026-03-26 18:58:08,660 - INFO -  * Detected change in 'C:\\ZecserIntern\\Zecpath-AI\\api\\ats_api.py', reloading
+2026-03-26 18:58:08,777 - INFO -  * Restarting with stat

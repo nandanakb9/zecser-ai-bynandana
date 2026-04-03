@@ -1,0 +1,15 @@
+{
+  "candidate_id": "",
+  "job_id": "",
+  "role": "",
+  "screening_score": 0,
+  "answers": [
+    {
+      "question_id": "",
+      "category": "",
+      "answer": "",
+      "score": 0
+    }
+  ],
+  "final_decision": ""
+}

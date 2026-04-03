@@ -1,0 +1,26 @@
+[
+    {
+        "skill": "python",
+        "confidence": 0.6
+    },
+    {
+        "skill": "sql",
+        "confidence": 0.6
+    },
+    {
+        "skill": "machine learning",
+        "confidence": 0.0
+    },
+    {
+        "skill": "excel",
+        "confidence": 0.6
+    },
+    {
+        "skill": "financial analysis",
+        "confidence": 0.75
+    },
+    {
+        "skill": "power bi",
+        "confidence": 0.6
+    }
+]

@@ -1,0 +1,14 @@
+{
+  "software_engineer": {
+    "min_score": 0.50,
+    "review_score": 0.40
+  },
+  "data_analyst": {
+    "min_score": 0.45,
+    "review_score": 0.35
+  },
+  "frontend_developer": {
+    "min_score": 0.45,
+    "review_score": 0.35
+  }
+}

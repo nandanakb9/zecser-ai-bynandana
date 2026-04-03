@@ -1,0 +1,16 @@
+{
+  "candidate_id": "",
+  "candidate_name": "",
+  "job_role": "",
+  "interview_round": "HR Screening",
+  "conversation": [
+    {
+      "question_id": "",
+      "question": "",
+      "answer": "",
+      "timestamp": "",
+      "confidence": 0.0
+    }
+  ],
+  "overall_confidence": 0.0
+}

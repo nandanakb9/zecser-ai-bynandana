@@ -1,0 +1,26 @@
+[
+    {
+        "skill": "sql",
+        "confidence": 0.6
+    },
+    {
+        "skill": "css",
+        "confidence": 0.6
+    },
+    {
+        "skill": "machine learning",
+        "confidence": 0.0
+    },
+    {
+        "skill": "java",
+        "confidence": 0.9
+    },
+    {
+        "skill": "html",
+        "confidence": 0.6
+    },
+    {
+        "skill": "mysql",
+        "confidence": 0.6
+    }
+]

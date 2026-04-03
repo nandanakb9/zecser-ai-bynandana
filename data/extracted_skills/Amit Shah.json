@@ -1,0 +1,10 @@
+[
+    {
+        "skill": "excel",
+        "confidence": 0.6
+    },
+    {
+        "skill": "machine learning",
+        "confidence": 0.0
+    }
+]

@@ -1,0 +1,51 @@
+{
+  "accountant": [
+    {"category":"introduction","question":"Can you introduce yourself?","answer_type":"text","mandatory":true,"weight":1},
+    {"category":"education","question":"Do you have a degree in commerce or accounting?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"skills","question":"Are you familiar with Tally or accounting software?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"experience","question":"How many years of accounting experience do you have?","answer_type":"number","mandatory":false,"weight":1},
+    {"category":"salary","question":"What is your expected salary?","answer_type":"number","mandatory":false,"weight":1}
+  ],
+
+  "financial_analyst": [
+    {"category":"introduction","question":"Tell me about yourself.","answer_type":"text","mandatory":true,"weight":1},
+    {"category":"skills","question":"Do you have experience in financial modeling?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"skills","question":"Are you comfortable with Excel and financial analysis?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"experience","question":"How many years of financial analysis experience?","answer_type":"number","mandatory":false,"weight":1},
+    {"category":"location","question":"Are you willing to work onsite?","answer_type":"yes_no","mandatory":true,"weight":1}
+  ],
+
+  "credit_analyst": [
+    {"category":"introduction","question":"Please introduce yourself.","answer_type":"text","mandatory":true,"weight":1},
+    {"category":"skills","question":"Do you have experience in credit risk analysis?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"skills","question":"Have you worked with financial statements?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"experience","question":"Years of credit analysis experience?","answer_type":"number","mandatory":false,"weight":1}
+  ],
+
+  "equity_research_analyst": [
+    {"category":"introduction","question":"Tell me about your background.","answer_type":"text","mandatory":true,"weight":1},
+    {"category":"skills","question":"Do you have equity research experience?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"skills","question":"Are you familiar with stock market analysis?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"experience","question":"Years of research experience?","answer_type":"number","mandatory":false,"weight":1}
+  ],
+
+  "auditor": [
+    {"category":"introduction","question":"Introduce yourself.","answer_type":"text","mandatory":true,"weight":1},
+    {"category":"skills","question":"Do you have auditing experience?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"skills","question":"Are you familiar with audit procedures?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"experience","question":"Years of audit experience?","answer_type":"number","mandatory":false,"weight":1}
+  ],
+
+  "compliance_officer": [
+    {"category":"introduction","question":"Tell me about yourself.","answer_type":"text","mandatory":true,"weight":1},
+    {"category":"skills","question":"Do you have compliance experience?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"skills","question":"Are you familiar with regulatory requirements?","answer_type":"yes_no","mandatory":true,"weight":2}
+  ],
+
+  "chartered_accountant": [
+    {"category":"introduction","question":"Please introduce yourself.","answer_type":"text","mandatory":true,"weight":1},
+    {"category":"education","question":"Are you a qualified Chartered Accountant?","answer_type":"yes_no","mandatory":true,"weight":3},
+    {"category":"skills","question":"Do you have taxation experience?","answer_type":"yes_no","mandatory":true,"weight":2},
+    {"category":"experience","question":"Years of CA experience?","answer_type":"number","mandatory":false,"weight":1}
+  ]
+}
