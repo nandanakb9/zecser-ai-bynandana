@@ -1310,6 +1310,146 @@ Mixed sentiment answer → 80
 
 Confidence and stress detection system implemented successfully.
 
+# Day 37 – HR Interview Scoring Engine
+
+## Objective
+
+Combine HR interview responses and behavioral signals into a structured final score.
+
+## Features Implemented
+
+* Answer relevance scoring
+* Communication score integration
+* Confidence score integration
+* Consistency detection
+* Weight-based scoring system
+* Normalized HR score (0–100)
+* Explainable score breakdown
+
+## Scoring Parameters
+
+1. Answer Relevance
+
+   * Measures answer length and detail
+   * Higher score for structured responses
+
+2. Communication Score
+
+   * Imported from communication evaluator
+   * Measures fluency, grammar, clarity
+
+3. Confidence Score
+
+   * Imported from confidence analyzer
+   * Measures hesitation and stress signals
+
+4. Consistency
+
+   * Detects repeated or contradictory answers
+   * Penalizes inconsistent responses
+
+## Weightage System
+
+* Answer Relevance → 30%
+* Communication Score → 25%
+* Confidence Score → 25%
+* Consistency → 20%
+
+## Final Score Formula
+
+Final HR Score =
+(Relevance × 0.30) +
+(Communication × 0.25) +
+(Confidence × 0.25) +
+(Consistency × 0.20)
+
+Score normalized to 0–100.
+
+## Example Output
+
+{
+"relevance": 86,
+"communication": 81,
+"confidence": 84,
+"consistency": 100,
+"final_hr_score": 87
+}
+
+## Files Created
+
+* hr_scoring_engine.py
+* test_hr_scoring.py
+
+## Status
+
+HR Interview Scoring Engine successfully implemented.
+# Day 38 – Aptitude Logic Design
+
+## Objective
+
+Integrate cognitive and situational evaluation into the AI HR interview system.
+
+## Features Implemented
+
+* Reasoning-based question design
+* Situational judgment scenarios
+* Ideal answer keyword mapping
+* Logical reasoning scoring
+* Problem-solving clarity detection
+* Scenario-based evaluation scoring
+
+## Aptitude Evaluation Components
+
+### Reasoning Questions
+
+AI asks structured thinking questions to evaluate analytical ability.
+
+### Situational Judgment
+
+Real-world workplace scenarios to assess decision-making skills.
+
+### Ideal Answer Mapping
+
+Keywords used to identify structured thinking:
+
+* Analyze
+* Plan
+* Discuss
+* Prioritize
+* Evaluate
+* Communicate
+* Resolve
+
+### Logical Reasoning Score
+
+Measures presence of structured thinking steps in answers.
+
+### Problem-Solving Clarity
+
+Evaluates explanation depth and clarity.
+
+### Scenario Evaluation
+
+Combines logical reasoning and clarity into final aptitude score.
+
+## Scoring Formula
+
+Scenario Score =
+(Logical Reasoning × 0.6) +
+(Problem Solving Clarity × 0.4)
+
+Score Range: 0–100
+
+## Files Created
+
+* aptitude_engine.py
+* test_aptitude_engine.py
+
+## Status
+
+Aptitude logic and situational evaluation successfully implemented.
+
+
 
 
 
