@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Confident Candidate",
+    "role": "experienced",
+    "ats_score": 82,
+    "screening_score": 78,
+    "hr_score": 86
+  },
+  {
+    "name": "Hesitant Candidate",
+    "role": "fresher",
+    "ats_score": 65,
+    "screening_score": 60,
+    "hr_score": 71
+  },
+  {
+    "name": "Overqualified Candidate",
+    "role": "technical",
+    "ats_score": 90,
+    "screening_score": 85,
+    "hr_score": 88
+  }
+]
