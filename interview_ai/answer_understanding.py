@@ -92,7 +92,7 @@ def detect_vague(answer):
 
 
 # ⭐ THIS IS IMPORTANT (rename function)
-def understand_answer(answer):
+def structure_answer(answer):
 
     data = {
         "intent": detect_intent(answer),

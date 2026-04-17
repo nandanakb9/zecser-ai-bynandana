@@ -1448,6 +1448,80 @@ Score Range: 0–100
 ## Status
 
 Aptitude logic and situational evaluation successfully implemented.
+# Day 39 – Interview Summary Generator (Short README)
+
+## Objective
+
+Generate recruiter-ready HR interview summaries from AI evaluation data.
+
+## Features
+
+* Strengths identification
+* Weakness detection
+* Cultural fit indicators
+* Risk flags
+* Overall HR performance summary
+* Natural-language report generation
+
+## Files
+
+* interview_summary.py
+* test_interview_summary.py
+
+## Run Command
+
+```bash
+python tests/test_interview_summary.py
+```
+
+## Output
+
+* Candidate strengths
+* Weaknesses
+* Cultural fit indicators
+* Risk flags
+* Overall HR performance summary
+
+## Status
+
+Interview summary generator working successfully.
+
+# Day 40 – HR Interview Simulation
+
+## Objective
+
+Test the complete HR interview AI system end-to-end using simulated candidates.
+
+## Features Tested
+
+* HR scoring engine
+* Communication evaluation
+* Confidence analysis
+* Aptitude scoring
+* Interview summary generation
+
+## Candidate Types Simulated
+
+* Confident Candidate
+* Hesitant Candidate
+* Inexperienced Candidate
+* Overqualified Candidate
+
+## Run Command
+
+python tests/test_hr_simulation.py
+
+## Output
+
+* HR score for each candidate
+* Strengths and weaknesses
+* Cultural fit indicators
+* Risk flags
+* Overall HR performance summary
+
+## Status
+
+End-to-end HR interview simulation completed successfully.
 
 
 
