@@ -60,3 +60,29 @@ def score_answer(answer_obj):
         "consistency": consistency,
         "total_score": total   # ⭐ FIXED KEY
     }
+def build_screening_result(scores):
+
+    if not scores:
+        return {
+            "average_score": 0,
+            "decision": "Reject"
+        }
+
+    total = 0
+
+    for s in scores:
+        total += s["total_score"]
+
+    average = total / len(scores)
+
+    if average >= 0.75:
+        decision = "Strong Pass"
+    elif average >= 0.5:
+        decision = "Pass"
+    else:
+        decision = "Reject"
+
+    return {
+        "average_score": round(average, 2),
+        "decision": decision
+    }

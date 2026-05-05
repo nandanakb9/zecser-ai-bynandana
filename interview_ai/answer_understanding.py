@@ -106,3 +106,5 @@ def structure_answer(answer):
     }
 
     return data
+def understand_answer(answer):
+    return structure_answer(answer)
